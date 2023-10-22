@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yashashwi Patil</h1>
 <h3 align="center">A passionate open source contributor</h3>
 
+<div align="center"><img src="https://i.pinimg.com/564x/3a/ad/05/3aad05833fb71593a7244099ec0eb1f0.jpg"></div>
+
 - 🔭 I’m currently working on **50Projects-50Days**
 
 - 🌱 I’m currently learning **Nodejs, Reactjs**
